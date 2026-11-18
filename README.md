@@ -12,6 +12,11 @@
   <a href="https://github.com/bomberman9000/logistics-site">Logistics web</a>
 </p>
 
+
+<p align="center">
+  <img src="./assets/terminal-whoami.svg" width="100%" alt="Terminal introduction and development principles" />
+</p>
+
 ### 📌 Featured Projects
 
 <table>
@@ -40,6 +45,15 @@
 </td>
 </tr>
 </table>
+
+
+### 🛡️ Security-minded AI Engineering
+
+<p align="center">
+  <img src="./assets/tila-architecture.svg" width="100%" alt="TILA and SoftZero conceptual agent control architecture" />
+</p>
+
+**Design priorities:** human authorization, least privilege, bounded agent execution, reviewable PR evidence, and explicit separation between test results and production acceptance.
 
 ### ⚙️ Tech Stack
 
