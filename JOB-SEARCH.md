@@ -44,3 +44,19 @@ These links are discovery sources, **not confirmation that any specific listing 
 - [ ] Verify individual live vacancies and make targeted applications
 
 Keep this tracker free of personal identifiers and private recruitment notes.
+
+## Targeted shortlist — 18 November 2026 (research only)
+
+**Status:** Five specific public listings inspected; no applications submitted. Verify availability and eligibility on the source before responding. These are opportunities to assess, not guaranteed matches.
+
+| Priority | Employer and vacancy | Source | Match | Gaps / caution |
+| --- | --- | --- | --- | --- |
+| 1 | AYROSA — Python Developer / AI Engineer (Document Processing) | [Habr](https://career.habr.com/vacancies/1000168741) | Document workflows, FastAPI, PostgreSQL, logistics documents; remote, including Samara | Requires 3+ years commercial Python and stronger OCR/pandas; project contract |
+| 2 | QSOFT / TEAMLY — Python Developer AI Services (LLM/RAG) | [Habr](https://career.habr.com/vacancies/1000169407) | Agent orchestration, LLM APIs, FastAPI, PostgreSQL, Redis, Ollama, CI | Kafka, LangGraph, Qdrant, RAG depth not proven |
+| 3 | DeFacto — AI Engineer / Python Developer (LLM Agents and RAG) | [Vakandia](https://vakandia.ru/vacancy/ai-engineer-python-developer-5785-1281997) | Business automation, tool calling and documents; remote from Russia | Requires 3 years commercial Python and RAG; salary figure is third-party estimate, not offer |
+| 4 | Headliner — AI / ML Engineer (Python) | [UNjobs](https://unjobs.ru/vacancy/vac-tg-headline-03eb8a94) | API integration, AI services, security, practical LLM workflows | Computer vision/OCR/ML pipeline experience not confirmed; posting is aggregator |
+| 5 | SR / Silentroom — Claude Code Backend Developer | [Habr](https://career.habr.com/vacancies/1000169682) | Claude Code, AI PR review, FastAPI, PostgreSQL, Redis, React | **Stretch:** Senior, 3+ commercial backend years, B1+ English, immediate start required |
+
+**Application policy:** use the AI Integration resume for 1–4 and choose the Backend Python version for 2/5 if targeting coding-heavy work. State clearly that own engineering projects are not equivalent to verified commercial developer employment. Do not inflate CV/ML or RAG credentials. Confirm remote employment conditions and compensation with each employer.
+
+**No personal contact details in this public tracker.** Private CV documents are maintained separately.
