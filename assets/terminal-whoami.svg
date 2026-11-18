@@ -1,14 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="365" viewBox="0 0 1180 365" role="img" aria-label="Terminal style engineer profile: whoami, focus, workflow and security">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c141f"/><stop offset="1" stop-color="#101e32"/></linearGradient></defs>
-<rect width="1180" height="365" rx="18" fill="url(#bg)"/><rect x="1" y="1" width="1178" height="363" rx="17" fill="none" stroke="#3b5973" stroke-width="2"/>
-<rect x="1" y="1" width="1178" height="48" rx="17" fill="#1b293d"/><path d="M1 49H1179" stroke="#38516b"/>
-<circle cx="28" cy="25" r="7" fill="#ed6c78"/><circle cx="52" cy="25" r="7" fill="#e5c064"/><circle cx="76" cy="25" r="7" fill="#57c9a8"/>
-<g font-family="DejaVu Sans Mono, monospace"><text x="135" y="32" font-size="16" fill="#b5cae1">~/portfolio  —  engineering-terminal</text>
-<text x="33" y="88" font-size="18" fill="#62dcb6">$ whoami</text>
-<text x="33" y="119" font-size="19" fill="#e5effe">Backend Engineer / AI Integration / Automation</text>
-<text x="33" y="165" font-size="18" fill="#62dcb6">$ cat focus.txt</text>
-<text x="33" y="194" font-size="18" fill="#c8daea">Business workflows  •  APIs  •  Databases  •  Human-controlled agents</text>
-<text x="33" y="239" font-size="18" fill="#62dcb6">$ ./release-policy --summary</text>
-<text x="33" y="271" font-size="18" fill="#d3e3f3">PR review  →  tests  →  evidence  →  owner approval  →  release</text>
-<text x="33" y="315" font-size="18" fill="#62dcb6">$ echo $PRIORITY</text>
-<text x="33" y="342" font-size="18" fill="#96cafa">Ship reliable systems. Verify the real user journey.</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="390" viewBox="0 0 1180 390" role="img" aria-labelledby="title desc">
+<title id="title">ZeroHour engineering terminal</title>
+<desc id="desc">An animated, illustrative terminal describing the engineer's development principles. This is not a live operational status report.</desc>
+<defs>
+<linearGradient id="terminalbg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090f1b"/><stop offset="1" stop-color="#14253a"/></linearGradient>
+<pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 5H6" stroke="#84b9d4" stroke-opacity=".028"/></pattern>
+</defs>
+<rect width="1180" height="390" rx="20" fill="url(#terminalbg)"/>
+<rect width="1180" height="390" rx="20" fill="url(#scan)"/>
+<rect x="1" y="1" width="1178" height="388" rx="19" fill="none" stroke="#3c5f79" stroke-width="2"/>
+<path d="M1 48H1179" stroke="#354e67"/>
+<path d="M20 1H1160Q1179 1 1179 20V47H1V20Q1 1 20 1Z" fill="#1c2b42"/>
+<circle cx="28" cy="25" r="7" fill="#ed7180"/><circle cx="52" cy="25" r="7" fill="#efc469"/><circle cx="76" cy="25" r="7" fill="#59cfaa"/>
+<text x="120" y="32" font-family="DejaVu Sans Mono, monospace" font-size="17" fill="#b8cee7">zero@zerohour:~/portfolio — bash</text>
+<text x="1090" y="31" font-family="DejaVu Sans Mono, monospace" font-size="12" fill="#79bce3">DEMO</text>
+<g font-family="DejaVu Sans Mono, monospace" font-size="19">
+<g opacity="1"><animate attributeName="opacity" values="0;1;1;1;1;1" keyTimes="0;0.05;0.24;0.55;0.82;1" dur="16s" repeatCount="indefinite"/>
+<text x="34" y="91" fill="#70e2bc">$ whoami</text><text x="34" y="123" fill="#e5f3ff">Backend Engineer  /  AI Integration  /  Automation</text>
+</g>
+<g opacity="1"><animate attributeName="opacity" values="0;0;1;1;1;1" keyTimes="0;0.23;0.28;0.55;0.82;1" dur="16s" repeatCount="indefinite"/>
+<text x="34" y="171" fill="#70e2bc">$ cat engineering-principles.md</text><text x="34" y="204" fill="#c5d8ef">Build real workflows. Prefer reliability over complexity.</text>
+</g>
+<g opacity="1"><animate attributeName="opacity" values="0;0;0;1;1;1" keyTimes="0;0.23;0.52;0.57;0.82;1" dur="16s" repeatCount="indefinite"/>
+<text x="34" y="252" fill="#70e2bc">$ ./release-gates --policy</text><text x="34" y="283" fill="#c5d8ef">Review  →  CI  →  evidence  →  owner approval  →  release</text>
+</g>
+<g opacity="1"><animate attributeName="opacity" values="0;0;0;0;1;1" keyTimes="0;0.23;0.52;0.78;0.84;1" dur="16s" repeatCount="indefinite"/>
+<text x="34" y="331" fill="#70e2bc">$ echo $MISSION</text><text x="34" y="362" fill="#80cfff">Ship reliable systems. Verify real user journeys.</text>
+<rect x="646" y="345" width="13" height="21" fill="#78eac7"><animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+</g>
+</svg>
